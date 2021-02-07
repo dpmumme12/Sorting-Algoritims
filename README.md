@@ -5,22 +5,20 @@ This is file has five different ways to sort algoritims including Bubble sort, S
 
 
 #### Bubble Sort:
-        Bubble Sort has a time complexity of O(n<sup>2</sup>)
+Bubble Sort has a time complexity of O(n<sup>2</sup>)
 
 
 #### Selection Sort:
-        Slection Sort has a time complexity of O(n<sup>2</sup>)
+Slection Sort has a time complexity of O(n<sup>2</sup>)
 
 
 #### Insertion Sort:
-        Insertion Sort has a time complexity of O(n log n) with an average case of O(n<sup>2</sup>)
+Insertion Sort has a time complexity of O(n log n) with an average case of O(n<sup>2</sup>)
 
 
 #### Shell Sort:
-        Shell Sort has an average time complexity of O(n<sup>4/3</sip>)
+Shell Sort has an average time complexity of O(n<sup>4/3</sup>)
 
 
 #### Merge Sort:
-        Merge Sort has an average time complexity of O(n log n)
-
-        x<sup>2</sup>
+Merge Sort has an average time complexity of O(n log n)
