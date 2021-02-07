@@ -22,3 +22,5 @@ This is file has five different ways to sort algoritims including Bubble sort, S
 
 #### Merge Sort:
         Merge Sort has an average time complexity of O(n log n)
+
+        x<sup>2</sup>
